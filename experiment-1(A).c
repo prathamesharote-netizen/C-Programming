@@ -8,7 +8,12 @@ Division: B
 UIN: 251C022
 Age: 17
 */
-printf("name is prathamesh\n class is civil\n division is b\n win in 251C022\n age is 17");
+printf("name is prathamesh\n
+  class is civil\n
+  division is b\n
+  Uin in 251C022\n
+  age is 17");
 
 
 return 0;
+
